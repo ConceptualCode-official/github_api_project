@@ -1,0 +1,14 @@
+{
+  "name": "GitHub API Project",
+  "slug": "github-api-project",
+  "description": "A GitHub user & repository explorer with a clean UI and code viewer.",
+  "tags": [
+    "API",
+    "GitHub",
+    "JavaScript",
+    "PHP",
+    "Portfolio"
+  ],
+  "preview": "live-demo/index.html",
+  "code_view": "code-viewer/index.html"
+}
