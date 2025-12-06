@@ -4,10 +4,11 @@
  * Clean, Secure, Reusable
  */
 
-$DB_HOST = "sql200.infinityfree.com";
-$DB_NAME = "if0_35745662_login";
-$DB_USER = "if0_35745662";
-$DB_PASS = "angaliveer7";
+$DB_HOST = "localhost";
+$DB_NAME = "github_api";
+$DB_USER = "root";
+$DB_PASS = "";
+
 // For portfolio / internship: NEVER expose your real DB credentials.
 // Use fake/local values only.
 
